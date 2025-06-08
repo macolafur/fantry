@@ -140,3 +140,84 @@
 - Service Message รองรับทุกกิจกรรม: จอง, จ่าย, ได้สิทธิ
 - LINE Pay เชื่อมจบในตัว ทำให้บอทอัตโนมัติยากขึ้น
 - เหมาะกับกิจกรรมไว จบเร็ว ไม่ต้องเข้าเว็บนอก
+
+### Slide 1: Cover
+
+Fantry "ตั๋วจริงใจ เพื่อแฟนตัวจริง"A fan-first ticketing platform that ensures fair access for real fans, not bots.
+
+### Slide 2: Problem
+
+- The Ticketing Crisis for K-pop & Fan Meet Events
+- Bots and scalpers hoard tickets within seconds
+- Fans are forced to pay 3x+ for resold tickets
+- Web platforms often crash during high-demand sales
+- No real identity verification: fans feel cheated
+
+### Slide 3: Insight
+
+"Real fans miss out, while resellers profit. The system feels rigged."
+
+- Fans demand fairness and transparency
+- Artists want loyal fans to get access
+- The LINE ecosystem is already trusted and used daily in Thailand
+
+### Slide 4: Solution
+
+Fantry — Ticketing, Reimagined for Real Fans
+
+- Raffle-based access: no more fastest-finger-first stress
+- Identity verification via LINE ID & OTP
+- Secure checkout via LINE Pay
+- Transparent, anti-bot, anti-scalping
+- Fan notifications directly through LINE Service Messages
+
+### Slide 5: How It Works
+
+1. Fans register for ticket raffle on LINE Mini App
+2. Verification via LINE account & OTP
+3. Winners are notified via LINE (raffle template)
+4. Checkout securely via LINE Pay
+5. Digital ticket delivered via LINE (ticket template)
+
+### Slide 6: Why LINE Mini App
+
+- 90%+ Thai users already on LINE
+- No downloads or new logins required
+- Fast UX, auto-login, and integrated notifications
+- Built-in payment with LINE Pay
+- Service Message templates perfectly suited for ticket flow
+
+### Slide 7: Product Demo (Optional Visuals)
+
+- Mini App home screen: event list
+- Raffle registration UI
+- LINE Service Message notification examples
+- Ticket QR code and details view
+
+### Slide 8: Business Model
+
+- 5–10% ticketing fee per transaction
+- Premium placement for organizers on event listings
+- Optional fan loyalty system and upsells
+- Custom analytics dashboard for organizers
+
+### Slide 9: Market Opportunity
+
+- Thai Live Event & Fan Meet Market
+- มูลค่า Fan Meet/K-pop ในไทย > 1,000M THB/year
+- K-pop fanbase is mobile-native and LINE-centric
+- Frequent events = repeatable revenue
+
+### Slide 10: Competitive Advantage
+
+- LINE-native: fast, secure, familiar
+- Raffle + identity check = real anti-bot system
+- No app download friction
+- Trusted brand = easier onboarding for organizers
+
+### Slide 11: Call to Action
+
+- Let’s Make Ticketing Fair Again.
+- Seeking pilot event partners (labels, venues)
+- LINE integration support ready
+- Let’s put real fans back in real seats
